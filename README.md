@@ -1,2 +1,14 @@
-# freeCodeCamp_DailyChallengesSolutions_Python
-An repository which contains all of my Python 3 solution for the daily challenges provided by freeCodeCamp.
+# freeCodeCamp Daily Challenges Solutions - Python 3
+
+This repository contains my Python 3 solutions for the daily challenges from freeCodeCamp.
+
+## File Structure
+- Each solution is a `.py` file.
+- Filenames follow the format: `YYYY_MM_DD.py` (year_month_day).
+
+## Usage
+- Browse the files to see my solutions for each daily challenge.
+- Feel free to study and learn from the code.
+
+## Note
+- These are my personal solutions for learning purposes.
