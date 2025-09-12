@@ -1,5 +1,3 @@
-** start of main.py **
-
 def is_unnatural_prime(n):
     n = abs(n)
     if n in [0, 1] or n % 2 == 0:
@@ -16,6 +14,4 @@ def is_unnatural_prime(n):
         
     
     return count == 1
-
-** end of main.py **
-
+    
