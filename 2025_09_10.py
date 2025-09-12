@@ -1,5 +1,3 @@
-** start of main.py **
-
 def array_diff(arr1, arr2):
     s1 = set(arr1)
     s2 = set(arr2)
@@ -12,6 +10,3 @@ def array_diff(arr1, arr2):
             r.append(e)
     r.sort()
     return r
-
-** end of main.py **
-
