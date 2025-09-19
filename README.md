@@ -11,4 +11,4 @@ This repository contains my Python3 solutions for the daily challenges from free
 - Feel free to study and learn from the code.
 
 ## Note
-- These are my personal solutions for learning purposes.
+- These are my personal solutions for learning and practicing the Python3 language.
