@@ -1,4 +1,4 @@
-def digits_or_letters(s):
+def digits_or_letters(s: str) -> str:
     digits = 0
     letters = 0
     for c in s:
