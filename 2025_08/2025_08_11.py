@@ -1,4 +1,4 @@
-def is_balanced(s):
+def is_balanced(s: str) -> bool:
     vowels = 0
     for i in range(0, len(s) // 2):
         if s[i] in "AEIOUaeiou":
