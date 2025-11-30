@@ -22,6 +22,3 @@ def calculate_age(birthday: str) -> int:
             break
 
     return age
-
-
-print(calculate_age("2000-12-01"))
