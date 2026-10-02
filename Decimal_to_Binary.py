@@ -1,4 +1,4 @@
-def to_binary(decimal):
+def to_binary(decimal: int) -> str:
     remainders = []
     while decimal:
         decimal, r = divmod(decimal, 2)

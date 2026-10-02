@@ -4,8 +4,7 @@ This repository contains my Python3 solutions for the daily challenges from free
 
 ## File and Directories Structure
 - Each solution is a `.py` file.
-- Filenames follow the format: `YYYY_MM_DD.py` (year_month_day).
-- Directories group the solutions by year and month: `YYYY_MM` (year_month).
+- Filenames follow the format: `<Challenge_name>.py` where spaces (` `) are replace with underlines (`_`).
 
 ## Usage
 - Browse the files to see my solutions for each daily challenge.
