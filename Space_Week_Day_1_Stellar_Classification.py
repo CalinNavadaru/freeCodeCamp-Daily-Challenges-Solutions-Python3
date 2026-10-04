@@ -1,4 +1,4 @@
-def classification(temp):
+def classification(temp: int) -> str:
     if temp >= 30_000:
         return "O"
 
