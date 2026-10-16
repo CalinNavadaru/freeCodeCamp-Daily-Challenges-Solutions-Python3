@@ -1,4 +1,4 @@
-def second_largest(arr):
+def second_largest(arr: str) -> str:
     max_value = max(arr)
     second_max_value = min(arr)
     for i in range(0, len(arr)):
